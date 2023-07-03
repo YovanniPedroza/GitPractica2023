@@ -8,11 +8,11 @@ git pull:  Obtiene los últimos cambios del repositorio remoto y los fusiona con
 
 git checkout: Cambia a la rama especificada
 
-git log:
+git log: Muestra un registro de commits realizados en la rama actual
 
-git branch:
+git branch: Muestra una lista de las ramas en el repositorio y resalta la rama actual
 
-git add:
+git add: Añade un archivo al área de preparación (staging area) para ser commitado
 
 git commit:
 
